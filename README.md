@@ -37,4 +37,5 @@ Some of the following will be needed to acccess the web server:
 2. GitHub is used to clone my Item Catalog Project [repository](https://github.com/Saudrules/Item-Catalog).
 3. [This](http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/) mod_wsgi (Apache) documentation was used to complete this project.
 4. [Dillinger](https://dillinger.io/) editor was used to preview the README content before submission.
+5. I have used [this](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777?newreg=e2d501ed7dfa4947a5dfe8f01960d655) feed from Stack Exchanges's Ask Ubuntu to help me with updating packages.
 * SSH key created for the _grader_ user can be found in: `~/.ssh/authorized_keys`. 
